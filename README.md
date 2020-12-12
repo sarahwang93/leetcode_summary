@@ -1,4 +1,4 @@
-* Leetcode Practice Note 
+# Leetcode Practice Note 
 * total number of leetcode is 1628
 * Link: https://leetcode.com/problemset/all
 
