@@ -28,6 +28,7 @@
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| |[java](./src/inorderTra.java)|Medium|
 |0096|[Unique Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees/)|[python](./src/numTrees.py)| |Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/)| |[java](./src/sameTree.java)|Easy|
+|0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| |[java](./src/maxDepth.java)|Medium|
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| |[java](./src/binaryTraversal.java)|Easy| 
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[python](./src/pascalTriangle.py)| |Medium| 
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./src/stockProfit.py)| |Easy|
@@ -60,7 +61,8 @@
 |0231|[Power of Two](https://leetcode.com/problems/power-of-two/)| |[java](./src/powerofTwo.java)|Easy|
 |0232|[Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)| |[java](./src/queueStack.java)|Medium|
 |0237|[Delete Node in a LinkedList](https://leetcode.com/problems/delete-node-in-a-linked-list/)| |[java](./src/deleteNode.java)|Easy|
-|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| |[python](./src/validAna.py)|Medium|
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./src/validAna.py)| |Medium|
+|0243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)| |[java](shortestDistance.java)|Easy|
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| |[java](./src/uglyII.java)|Medium|
 |0275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[python](./src/h_index_II.py)| |Medium|
 |0279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| |[java](./src/perfectSquare.java)|Medium|
@@ -77,6 +79,7 @@
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./src/validSquare.py)| |Easy|
 |0368|[Largest Divsible Subset](https://leetcode.com/problems/largest-divisible-subset/)| |[java](./src/largeSubset.py)|Medium|
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| |[java](./src/RandomizedSet.java)|Medium|
+|0382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| |[java](./src/randomNode.java)|Medium|
 |0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[python](./src/ransomNote.py)| |Easy|
 |0387|[First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python](./src/firstUnique.py)| |Easy|
 |0392|[Is Subsenquence](https://leetcode.com/problems/is-subsequence/)| |[java](./src/isSubsequence.java)|Easy|
