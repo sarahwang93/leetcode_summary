@@ -78,6 +78,7 @@
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./src/intersectionII.py)| |Easy|
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./src/validSquare.py)| |Easy|
 |0368|[Largest Divsible Subset](https://leetcode.com/problems/largest-divisible-subset/)| |[java](./src/largeSubset.py)|Medium|
+|0369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)| |[java](./src/plusOne.java)/Medium/ 
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| |[java](./src/RandomizedSet.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| |[java](./src/randomNode.java)|Medium|
 |0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[python](./src/ransomNote.py)| |Easy|
@@ -91,6 +92,7 @@
 |0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)| |[java](./src/arrangeCoins.java)|Easy|
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[python](./src/deleteBST.py)| |Medium|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| |[java](./src/frequencyCheck.java)|Medium|
+|0454|[4Sum II](https://leetcode.com/problems/4sum-ii/)| |[java](./fourSumII.java)|Medium|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| |[java](./src/hammingDistance.java)|Easy|
 |0468|[Valid IP Address](https://leetcode.com/problems/validate-ip-address/)| |[java](./src/validIP.java)|Medium|
 |0476|[Number Complement](https://leetcode.com/problems/number-complement/)|[python](./src/numComplement.py)| |Easy|
