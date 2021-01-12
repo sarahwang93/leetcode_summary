@@ -135,3 +135,4 @@
 |1232|[Check If It is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[python](./src/checkStraight.py)| |Easy|
 |1277|[Count Square Submatrics with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[python](./src/countSquare.py)|[java](./src/countSquare.java)|Medium|
 |1305|[All elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[python](./src/eleBinary.py)||Medium|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)||[Java](./src/swapNode.py)|Medium|
