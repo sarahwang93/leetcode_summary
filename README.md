@@ -61,6 +61,7 @@
 |0231|[Power of Two](https://leetcode.com/problems/power-of-two/)| |[java](./src/powerofTwo.java)|Easy|
 |0232|[Implement Queue using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)| |[java](./src/queueStack.java)|Medium|
 |0237|[Delete Node in a LinkedList](https://leetcode.com/problems/delete-node-in-a-linked-list/)| |[java](./src/deleteNode.java)|Easy|
+|0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| |[java](./src/searchMatrix.java)|Medium|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./src/validAna.py)| |Medium|
 |0243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)| |[java](shortestDistance.java)|Easy|
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| |[java](./src/uglyII.java)|Medium|
