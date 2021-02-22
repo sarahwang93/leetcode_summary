@@ -18,6 +18,7 @@
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |[python](./src/rotateImage.py)|Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| |[java](./src/groupAna.java)|Medium|
 |0050|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[python](./src/pow.py)| |Medium| 
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)||[java](./src/nQueens.java)|Medium|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| |[java](./src/maxSub.java)|Easy|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| |[java](./src/permutationSeq.java)|Hard|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)| |[java](./src/uniquePath.java)|Medium|
