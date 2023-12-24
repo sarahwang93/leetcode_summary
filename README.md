@@ -138,4 +138,4 @@
 |1277|[Count Square Submatrics with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[python](./src/countSquare.py)|[java](./src/countSquare.java)|Medium|
 |1305|[All elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[python](./src/eleBinary.py)||Medium|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)||[Java](./src/swapNode.py)|Medium|
-|0048|[Rotate Image](https://leetcode.cn/problems/rotate-image/description/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china)||([Java])(./src/RotateImage.java)|Medium|
+|0048|[Rotate Image](https://leetcode.cn/problems/rotate-image/description/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china)||[Java](./src/RotateImage.java)|Medium|
